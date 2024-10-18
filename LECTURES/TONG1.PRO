@@ -1,0 +1,8 @@
+predicates
+/*	gt (integer, real)*/
+	tong (integer, real)
+clauses
+	tong (1, 1) :- !.
+	tong (N, K) :- N1 = N - 1,
+			tong (N1, K1),
+			K = K1 + N.

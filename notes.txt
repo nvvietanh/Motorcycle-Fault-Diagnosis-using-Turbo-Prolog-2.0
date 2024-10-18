@@ -1,0 +1,17 @@
+triệu chứng:
+  - không/khó khởi động 
+  - đèn không sáng
+  - còn/hết xăng
+  - phanh không ăn
+  - 
+
+bệnh:
+  - hỏng bugi
+  - hỏng ắc quy/ắc quy hết điện
+  - thủng xăm/lốp 
+  - 
+
+test:
+  - hỏi A
+    - a đúng hỏi B
+      - b đúng hỏi c
