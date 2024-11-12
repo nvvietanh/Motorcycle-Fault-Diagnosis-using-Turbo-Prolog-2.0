@@ -15,3 +15,9 @@ test:
   - hỏi A
     - a đúng hỏi B
       - b đúng hỏi c
+
+---------------------------------------------
+
+PCA cho bài toán phân loại, phân cụm hoa hồng:
+{image} ---convolution---> 25000 features ---PCA---> 5 features
+=> Use this 5 features for classification
